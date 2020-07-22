@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SignInApp</string>
+    <string name="twitter_api_key">v41Mo3SrlxGL0QfcX8ZB9z4eX</string>
+    <string name="twitter_api_secret">GN3uch75JWamHHbSCvUoReLr4oZIpt8WhDwWaTuv1KPwV5LVYI</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">GNHBYLJe5znWpAFBEub9FaHPDFVnC3GaUa0chALW</string>
+    <string name="back4app_client_key">DUildloDM24gVHTmxdsrdz4h74RyggwATKVYfoWs</string>
+    
+    
+    <string name="google_client_id">856029619286-esk337f8ffq3nvrk0fek1qdmgmobtbev.apps.googleusercontent.com</string>
+    <string name="google_secret">XvxOlstNI1BjtZ3SNp1LbOA2</string>
+
+    <string name="welcome">Welcome</string>
+</resources>
